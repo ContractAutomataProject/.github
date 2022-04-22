@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-🙋‍♀️ This organization groups together all repositories concerning contract automata.
-👩‍💻 If you want to know more about contract automata checks the ContractAutomataLib repository.
-🌈 This organization is currently maintained by me, for contributing please contact me at davide.basile@isti.cnr.it.
+🙋‍♀️ This organization groups together all repositories concerning contract automata. <br>
+👩‍💻 If you want to know more about contract automata checks the ContractAutomataLib repository. <br>
+🌈 This organization is currently maintained by me, for contributing please contact me at davide.basile@isti.cnr.it. <br>
 
 
 <!--
